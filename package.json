@@ -2,7 +2,7 @@
   "name": "ngDocs",
   "version": "13.1.0-next.0",
   "private": true,
-  "description": "Angular - a web framework for modern web apps",
+  "description": "ngDocs - Angular based static documentation project.",
   "homepage": "https://github.com/angular/angular",
   "bugs": "https://github.com/angular/angular/issues",
   "license": "MIT",
